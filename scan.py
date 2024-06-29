@@ -127,12 +127,12 @@ def use_checkfree_tool():
 
 def second_menu():
     console = Console()
-    console.print("[bold green]Telegram: @SSLHTUNNELMAX [/bold green]\n")
+    console.print("[bold green]Telegram: @K_ASTRRA [/bold blue]\n")
     console.print("[bold blue][1] Extract Subdomains[/bold blue]")
     console.print("[bold green][2] Scan for Subdomains via Bugscanner[/bold green]")
     console.print("[bold yellow][3] CDN-SSL Scan via Bugscanner[/bold yellow]")
     console.print("[bold red][4] SNI Scan via Bugscanner[/bold red]")
-    console.print("[bold cyan][5] Scan range via CloudIP new[/bold cyan]\n")
+    console.print("[bold cyan][5] Scan range via CloudIP new[/bold green]\n")
 
     choice = console.input("[magenta][-][/magenta] Enter your choice (1-5):> ")
     os.system('clear')
